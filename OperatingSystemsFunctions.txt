@@ -1,0 +1,2 @@
+One operating system function is starting up the computer. After pressing the power button a series of start up tests run through the computer's system.
+After the tests are successful the kernel of the operating system load into its memory.
