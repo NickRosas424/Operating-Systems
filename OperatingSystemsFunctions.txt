@@ -1,2 +1,4 @@
 One operating system function is starting up the computer. After pressing the power button a series of start up tests run through the computer's system.
 After the tests are successful the kernel of the operating system load into its memory.
+Another operating system function is providing a user interface. This controls how users manage their computers. Menus, windows, and instructions are 
+displayed on the screen.
